@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'windows-1252'?>
+<!DOCTYPE application-client PUBLIC "-//Sun Microsystems, Inc.//DTD J2EE Application Client 1.2//EN" "http://java.sun.com/j2ee/dtds/application-client_1_2.dtd">
+<application-client>
+	<display-name>EJB30Client</display-name>
+	<ejb-ref>         
+		<ejb-ref-name>Cart</ejb-ref-name>         
+		<remote>oracle.ejb30.Cart</remote>    
+	</ejb-ref>
+</application-client>
